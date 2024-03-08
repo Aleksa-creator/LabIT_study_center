@@ -1,0 +1,203 @@
+
+.dirt{
+    width: 100%;
+    height: 100px;
+
+}
+
+li.gadgets{
+    color: hsla(340, saturation, 50%);
+}
+
+.ld  h3{
+    color: #000000;
+    opacity: 0.4;
+}
+h2h3{
+    
+}
+*{
+    background-color: aquamarine;
+}
+
+.color_test{
+    border-color: #423fd4;
+}
+
+.psevdo{
+    color: aquamarine;
+}
+.psevdo:link{
+
+}
+
+.psevdo:visited{
+
+}
+
+.psevdo:active{
+
+}
+.psevdo:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.psevdo::after{
+
+}
+.psevdo:focus{
+
+}
+.psevdo:not(){
+    color: #000;
+}
+.psevdo:lang(ru){
+
+}
+.psevdo:empty{
+
+}
+
+.psevdo:first-child{
+
+}
+.psevdo:last-child{
+
+}
+.psevdo:only-child{
+
+}
+.psevdo:only-of-type{
+
+}
+.psevdo:nth-child(1){
+
+}
+.psevdo:nth-last-child(1){
+
+}
+.psevdo:nth-of-type(){
+
+}
+.psevdo:nth-last-of-type(){
+
+}
+.psevdo:enabled{
+
+}
+.psevdo:disabled{
+
+}
+.psevdo:checked{
+
+}
+.psevdo:default{
+
+}
+.psevdo:valid{
+
+}
+.psevdo:invalid{
+
+}
+.psevdo:in-range{
+    border: 2px green;
+}
+.psevdo:out-of-range{
+    border: 2px red;
+}
+.psevdo:required{
+
+}
+.psevdo:optional{
+
+}
+.psevdo::first-letter{
+    
+}
+.psevdo::first-line{
+
+}
+.psevdo::before{
+    content: "Vazhno";
+    color: #000;
+}
+.psevdo::after{
+    content: "";
+}
+.psevdo::selection{
+    background-color: aquamarine;
+}
+.psevdo[href="#"]{
+
+}
+.psevdo{
+    color: azure;
+    size: 16px;
+    text-decoration: none;
+
+}
+a{
+    color: aqua !important;size: 12px !important;
+}
+p{
+    color: red;
+}
+.ert{
+    color: #000;
+    size: 13px;
+}
+#tyre{
+    background-color: aquamarine;
+}
+
+
+.psevdo:is(:is(header, footer)div) > p{
+
+}
+
+header > p, footer > p{
+
+}
+
+.psevdo:where
+
+
+*{
+    background-color: yellowgreen;
+    box-sizing: border-box;
+
+}
+
+h1, h2, h3, h4{
+    color: aquamarine;
+    size: 15px;
+    width: 15px;
+}
+
+h2, #header, .dev{
+    color:blanchedalmond;
+}
+
+
+#main p{
+    font-size: 16px;
+}
+
+
+a .dev{
+    color: blueviolet;
+}
+
+
+
+
+
+
+
+
+.dev{
+    height: auto;   height:fit-content; height: max-content;    height: min-content;
+    width: auto;    width: fit-content; width: max-content;     width: min-content;
+}
